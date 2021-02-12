@@ -1,0 +1,48 @@
+<html>
+    <title>Ваня jabroni</title>
+    <body style="font-family:sans-serif">
+    <header style="background-color:pink">
+        <img src="https://img.pngio.com/donut-png-clip-art-image-gallery-yopriceville-high-quality-donuts-png-5000_4261.png" height="50px"/>
+        <a href="https://ru.wikipedia.org/wiki/Пончик" style="color:black">История</a>
+    </header>
+    <main style="background-color:lightpink">
+        <h1 style="font-size:50px;background-color:lightpink; text-align:center">Магазин пончиков<br/>
+        <img src="https://mars.algoritmika.org/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150"/></h1>
+        <p style="font-size:20px">Приглашаем вас попрбобовать немного вкусных пончиков!</p>
+        
+    
+    <table style="border:1px solid white;">
+        <tr>
+            <td style="border:1px solid white;">Вкусы</td>
+            <td style="border:1px solid white;">Кейк Красный Бархат
+</td>
+            <td style="border:1px solid white;">Ринг Клубничный
+</td>
+            <td style="border:1px solid white;">Шелл Черничный чизкейк</td>
+            <td style="border:1px solid white;">Шелл Лесная земляника</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid white;">Вид</td>
+            <td style="border:1px solid white;"><img src="https://dunkindonutsmoscow.ru/upload/iblock/5f0/Keyk-Krasnyy-barkhat.png" /></td>
+            <td style="border:1px solid white;"><img src="https://dunkindonutsmoscow.ru/upload/iblock/2ec/2.png"/></td>
+            <td style="border:1px solid white;"><img src="https://dunkindonutsmoscow.ru/upload/iblock/0e7/5.png"/></td>
+            <td style="border:1px solid white;"><img src="https://dunkindonutsmoscow.ru/upload/iblock/17e/15.png"/></td>
+        </tr>    
+     <tr>
+            <td style="border:1px solid white;">Цена</td>
+            <td style="border:1px solid white;">110 руб.</td>
+            <td style="border:1px solid white;">90 руб.</td>
+            <td style="border:1px solid white;">110 руб.</td>
+            <td style="border:1px solid white;">100 руб.</td>
+            
+        </tr>
+        
+        
+    </table>
+    </main>
+    <footer style="background-color:pink;color:black;">
+        <p style="font-size:15px"> Адрес: город Спортивный, ул.Здоровья, 15.</p>
+        <p>Тел.:596-457</p>
+    </footer>
+    </body>
+</html>
